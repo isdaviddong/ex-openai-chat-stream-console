@@ -13,7 +13,7 @@
    請將你的 OpenAI API 金鑰設定到 `OPENAI_API_KEY` 環境變數。
    - Windows 指令範例：  
      ```
-     setx OPENAI_API_KEY "你的API金鑰"
+     $env:OPENAI_API_KEY = "你的API金鑰"
      ```
 
 2. **編譯與執行**  
