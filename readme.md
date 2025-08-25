@@ -1,7 +1,6 @@
 # ChatCompletionStreamResponse
 
 本專案是一個簡易 C# 主控台程式，透過 OpenAI API 以串流方式取得 Chat Completion 回覆。
-<iframe src="https://arock.blob.core.windows.net/blogdata/mp4player.html?src=https://arock.blob.core.windows.net/blogdata202508/2025-08-25_11-03-45.mp4" width="100%" height="480" frameborder="0" allowfullscreen></iframe>
 
 ## 功能簡介
 
